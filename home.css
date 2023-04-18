@@ -12,7 +12,7 @@
 
 #topo1 {
     color: #DF6951;
-    font-size: 20px;
+    font-size: 16px;
     font-weight: bold;
     text-transform: uppercase;
     font-family: 'Poppins', sans-serif;
@@ -20,7 +20,7 @@
 
 .titulo_home h1 {
     color: #0E2651;
-    font-size: 84px;
+    font-size: 60px;
     font-weight: bold;
     font-family: 'Volkhov', serif;
 }
@@ -60,9 +60,9 @@
 }
 
 .topo {
-    padding: 60px 200px;
+    padding: 40px 160px;
 }
 
 .titulo_home {
-    padding-left: 200px;
+    padding-left: 160px;
 }
