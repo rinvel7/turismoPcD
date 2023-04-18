@@ -15,8 +15,8 @@
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 600;
-    font-size: 21.0929px;
-    line-height: 32px;
+    font-size: 18px;
+    line-height: 5px;
     text-align: center;
     text-transform: uppercase;    
     color: #FFA90F;
@@ -35,18 +35,11 @@
 
 }
 
-#slider .fa-solid {
-    color: #5E6282;
-    font-size: 25px;
-    margin: 4em 0 0 55em;
- 
-  }
+
 .carousel {    
     width: 100%;
     height: auto;
     margin: auto;
-    padding: 0 5em;
-
 }
 
 .carousel img {
