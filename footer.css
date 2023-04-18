@@ -1,12 +1,12 @@
 .footer {
     background-image: url(img/Footer.png);
     width: 100%;
-    height: 450px;
+    height: 400px;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     text-align: center;
-    padding: 5em;
+    padding: 4em;
 }
 
 .footer_titulo {
@@ -20,7 +20,7 @@
 
 
 .footer_menu{
-    margin: 2em;
+    margin: 1em;
 }
 
 .footer_menu .menu-item {
