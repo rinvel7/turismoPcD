@@ -16,14 +16,14 @@
 }
 
 .modal, .modal2, .modal3, .modal4, .modal5{
-    width: 60%;
+    width: 50%;
     height: auto;
     background-color: #ffffff9f;
    
     /* EFEITO VIDRO, PARA PARECER TRANSPARENTE */
     backdrop-filter: blur(10px);
     padding: 0.5em;
-    border-radius: 36px;
+    border-radius: 25px;
     border: solid 0.5px rgb(165, 161, 161);
 }
 
@@ -31,9 +31,9 @@
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 700;
-    font-size: 20px;
+    font-size: 16px;
     text-align: center;
-    line-height: 124.5%;
+    line-height: 20px;
     margin: 1em;
     color: #5E6282;
 }
@@ -42,19 +42,19 @@
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 400;
-    font-size: 16px;
+    font-size: 14px;
     text-align: justify;
-    line-height: 124.5%;
+    line-height: 20px;
     margin: 1em 5em 0 5em;
     color: #5E6282;
 }
 
 .modal img, .modal2 img, .modal3 img, .modal4 img, .modal5 img {
-    width: 650px;
-    height: 300px;
+    width: 400px;
+    height: 200px;
     display: block;
     margin: auto;
-    border-radius: 36px;
+    border-radius: 25px;
 }
 /* BOTAO DE FECHAR A JANELA MODAL */
 .fechar, .fechar2, .fechar3, .fechar4, .fechar5{
