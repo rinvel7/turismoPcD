@@ -15,7 +15,7 @@
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 600;
-    font-size: 18px;
+    font-size: 16px;
     line-height: 5px;
     text-align: center;
     text-transform: uppercase;    
@@ -27,8 +27,8 @@
    font-family: 'Volkhov';
    font-style: normal;
    font-weight: 700;
-   font-size: 58.5915px;
-   line-height: 76px;
+   font-size: 40px;
+   line-height: 60px;
    padding: 0.2em 0;
    color: #0E2651;
    text-align: center;
@@ -40,11 +40,12 @@
     width: 100%;
     height: auto;
     margin: auto;
+    padding: 0 5em;
 }
 
 .carousel img {
-    width: 360px;
-    height: 250px;
+    width: 275px;
+    height: 200px;
     margin: auto;
     padding: 0.5em 0 0 0;
 }
