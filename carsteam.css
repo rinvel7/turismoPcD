@@ -29,8 +29,8 @@
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 600;
-    font-size: 21.0929px;
-    line-height: 32px;
+    font-size: 18px;
+    line-height: 20px;
     text-transform: uppercase; 
     color: #FFA90F;
 
@@ -40,9 +40,9 @@
    font-family: 'Volkhov';
    font-style: normal;
    font-weight: 700;
-   font-size: 58.5915px;
-   line-height: 76px;
-   padding: 0.2em 0 1em 0;
+   font-size: 40px;
+   line-height: 50px;
+   padding: 0.2em 0 0.35em 0;
    color: #0E2651;
 
 }
