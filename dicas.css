@@ -18,7 +18,7 @@
   }
 
 .dicas_container .dicas_row {   
-    width: 50%;
+    width: 45%;
     margin: 7em;
     display: flex;
     justify-content: center;
@@ -43,15 +43,15 @@
 
 .dicas_container .dicas_row .heading h2{
     
-    width: 664.61px;
+    width: 550px;
     height: 195px;
     margin: 0 0 0.5em 0;
 
     font-family: 'Volkhov';
     font-style: normal;
     font-weight: 700;
-    font-size: 50px;
-    line-height: 64px;
+    font-size: 40px;
+    line-height: 60px;
 
     color: #0E2651;
 }
@@ -115,8 +115,8 @@
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 400;
-    font-size: 16px;
-    line-height: 124.5%;
+    font-size: 12px;
+    line-height: 19px;
 
     margin: 0 1em;
     padding: 0 0 0 1em;
@@ -129,7 +129,7 @@
 
 .main_img {
     position: absolute;
-    width: 30%;
+    width: 35%;
     height: 535px;
     margin: 9em 0 0 1em ;
     padding: 0.5em 0 0 0;
@@ -140,9 +140,9 @@
 
 .main_img .img_item  {   
     position: absolute;
-    width: 560px;
+    width: 26em;
     height: 510px;
-    right: 0.5em;
+    right: 0.75em;
     background-image: url(img/image\ 48.png);
     border-radius: 32px;
     filter: drop-shadow(0px 100px 80px rgba(0, 0, 0, 0.02)) drop-shadow(0px 64.8148px 46.8519px rgba(0, 0, 0, 0.0151852)) drop-shadow(0px 38.5185px 25.4815px rgba(0, 0, 0, 0.0121481)) drop-shadow(0px 20px 13px rgba(0, 0, 0, 0.01)) drop-shadow(0px 8.14815px 6.51852px rgba(0, 0, 0, 0.00785185)) drop-shadow(0px 1.85185px 3.14815px rgba(0, 0, 0, 0.00481481));
