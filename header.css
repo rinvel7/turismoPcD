@@ -59,12 +59,14 @@
  /* Estilos para a classe que altera a cor do elemento de menu */
  .menu-scroll {
     background-color: #fff;
+    
   }
 
   /* Estilos para a classe que altera a logo do elemento de menu */
   .menu-logo2 {
     
     background-color: rgb(0, 99, 128); 
+
 }
 
 
