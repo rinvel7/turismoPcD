@@ -129,7 +129,7 @@
 
 .main_img {
     position: absolute;
-    width: 35%;
+    width: 37%;
     height: 535px;
     margin: 9em 0 0 1em ;
     padding: 0.5em 0 0 0;
@@ -141,8 +141,8 @@
 .main_img .img_item  {   
     position: absolute;
     width: 23em;
-    height: 510px;
-    right: 0.75em;
+    height: 507px;
+    right: 0.95em;
     background-image: url(img/image\ 48.png);
     background-repeat: no-repeat;
     border-radius: 32px;
