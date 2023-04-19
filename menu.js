@@ -1,3 +1,4 @@
+    //TROCA COR DO BACKGROUND
     // Seleciona o elemento de menu
     const menu = document.querySelector(".menu");
     
@@ -16,6 +17,7 @@
       }
     });
 
+    //TROCA O COR DAS LETRAS DO TITULO
     const navTitle = document.querySelector(".titulo_logo");
 
     window.addEventListener("scroll", () => {
